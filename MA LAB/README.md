@@ -7,15 +7,15 @@
 
 | # | Experiment | Topic |
 |---|-----------|-------|
-| 1 | [Experiment 2](#experiment-2) | Simple Linear Regression |
-| 2 | [Experiment 3](#experiment-3) | Multiple Linear Regression |
-| 3 | [Experiment 4](#experiment-4) | Ridge Regression |
-| 4 | [Experiment 5](#experiment-5) | Ridge Regression (Matrix Input) |
-| 5 | [Experiment 5B](#experiment-5b) | Support Vector Machine (SVM) |
+| 1 | [Experiment 1](#experiment-1) | Simple Linear Regression |
+| 2 | [Experiment 2](#experiment-2) | Multiple Linear Regression |
+| 3 | [Experiment 3](#experiment-3) | Ridge Regression |
+| 4 | [Experiment 4](#experiment-4) | Ridge Regression (Matrix Input) |
+| 5 | [Experiment 5](#experiment-5) | Support Vector Machine (SVM) |
 | 6 | [Experiment 5 (SVR)](#experiment-svr) | Support Vector Regression (SVR) |
 | 7 | [Experiment 5 (SVM Dual)](#experiment-svm-dual) | SVM in Dual Form |
 | 8 | [Experiment 6](#experiment-6) | Naive Bayes – Weather (Game) |
-| 9 | [Experiment 6B](#experiment-6b) | Naive Bayes – Tennis (Temperature) |
+| 9 | [Experiment 6](#experiment-6) | Naive Bayes – Tennis (Temperature) |
 | 10 | [Experiment 7](#experiment-7) | K-Means Clustering |
 
 ---
