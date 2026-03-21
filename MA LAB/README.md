@@ -782,7 +782,7 @@ pip install numpy matplotlib scikit-learn
 | **Univ. Roll** | 24UG010675 |
 | **College Roll** | 24CSEAIML179 |
 | **Semester** | 4th |
-| **University** | JNTU Gunupur |
+| **University** | GIET Gunupur |
 
 ---
 
