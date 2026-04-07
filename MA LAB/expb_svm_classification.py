@@ -1,10 +1,3 @@
-# ============================================================
-#  Experiment 5B - Support Vector Machine (SVM)
-#  Name   : Amandeep Kumar
-#  Roll   : 24UG010675
-#  Date   : Sheet No. 22
-# ============================================================
-#
 #  Aim:
 #  Determine the optimal separating hyperplane using SVM
 #  for the given dataset and classify a new data point.
