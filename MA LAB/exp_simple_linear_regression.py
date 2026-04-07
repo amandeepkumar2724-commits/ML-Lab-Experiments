@@ -1,10 +1,3 @@
-# ============================================================
-#  Experiment 2 - Simple Linear Regression
-#  Name   : Amandeep Kumar
-#  Roll   : 24UG010675
-#  Date   : 12/01/26
-# ============================================================
-#
 #  Aim:
 #  Write a code to generate a regression line on the following
 #  datapoints and compute error metrics: MSE, MAE, RMSE, R²,
