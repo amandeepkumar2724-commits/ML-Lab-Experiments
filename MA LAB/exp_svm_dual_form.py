@@ -1,10 +1,3 @@
-# ============================================================
-#  Experiment - Linear SVM in Dual Form
-#  Name   : Amandeep Kumar
-#  Roll   : 24UG010675
-#  Date   : Sheet No. 26
-# ============================================================
-#
 #  Aim:
 #  A linear SVM has the following alpha, support vectors and
 #  output class y. Compute the predicted class label when
