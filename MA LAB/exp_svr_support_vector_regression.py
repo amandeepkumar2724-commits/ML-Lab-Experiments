@@ -1,10 +1,3 @@
-# ============================================================
-#  Experiment - Support Vector Regression (SVR)
-#  Name   : Amandeep Kumar
-#  Roll   : 24UG010675
-#  Date   : Sheet No. 24
-# ============================================================
-#
 #  Aim:
 #  Apply SVR to determine a regression function for the
 #  dataset such that data points lie within the epsilon-tube
