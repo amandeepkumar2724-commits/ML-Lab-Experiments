@@ -1,10 +1,3 @@
-# ============================================================
-#  Experiment 8 - Agglomerative (Hierarchical) Clustering
-#  Name   : Amandeep Kumar
-#  Roll   : 24UG010675
-#  Date   : 08/03/26 | Sheet No. 37
-# ============================================================
-#
 #  Aim:
 #  Apply agglomerative clustering approach to create a
 #  dendrogram for the given points using single linkage.
