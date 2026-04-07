@@ -1,10 +1,3 @@
-# ============================================================
-#  Experiment 3 - Multiple Linear Regression
-#  Name   : Amandeep Kumar
-#  Roll   : 24UG010675
-#  Date   : 12/03/26
-# ============================================================
-#
 #  Aim:
 #  Write a code to generate a regression line for multiple
 #  input features and compute: MAE, MSE, RMSE, R², Adj R².
