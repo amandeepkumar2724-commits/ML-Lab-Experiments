@@ -1,10 +1,3 @@
-# ============================================================
-#  Experiment 7B - K-Medoid (PAM) Clustering
-#  Name   : Amandeep Kumar
-#  Roll   : 24UG010675
-#  Date   : 30/03/26 | Sheet No. 35
-# ============================================================
-#
 #  Aim:
 #  Implement the K-Medoid (PAM) clustering on a dataset of
 #  5 points with K=2 and initial medoids m1=Point A (2)
