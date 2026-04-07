@@ -1,5 +1,5 @@
 # 🤖 Machine Learning Lab Experiments
-### Amandeep Kumar | Roll: 24UG010675 | 4th Semester | JNTU Gunupur
+### Amandeep Kumar | Roll: 24UG010675 | 4th Semester | GIETU Gunupur
 
 ---
 
