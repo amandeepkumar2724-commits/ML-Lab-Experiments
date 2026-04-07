@@ -1,10 +1,3 @@
-# ============================================================
-#  Experiment 6B - Naive Bayes Classifier (Tennis & Temp)
-#  Name   : Amandeep Kumar
-#  Roll   : 24UG010675
-#  Date   : Sheet No. 29
-# ============================================================
-#
 #  Aim:
 #  Implement Naive Bayes classifier to predict whether tennis
 #  will be played based on temperature & weather conditions.
