@@ -1,9 +1,9 @@
-# 🤖 Machine Learning Lab Experiments
-### Amandeep Kumar | Roll: 24UG010675 | 4th Semester | JNTU Gunupur
+# Machine Learning Lab Experiments
+### Amandeep Kumar | Roll: 24UG010675 | 4th Semester | GIETU Gunupur
 
 ---
 
-## 📋 Table of Contents
+##Table of Contents
 
 | # | Experiment | Topic |
 |---|-----------|-------|
@@ -25,7 +25,7 @@
 ## Experiment 2
 ### Simple Linear Regression with Performance Metrics
 
-**Date:** 12/01/26
+
 
 #### 🎯 Aim
 Write a code to generate a regression line on the following datapoints and compute error metrics: **MSE, MAE, RMSE, R², Adj R², SEE**.
@@ -132,7 +132,7 @@ plt.show()
 ## Experiment 3
 ### Multiple Linear Regression (Matrix Factorization)
 
-**Date:** 12/3/26
+
 
 #### 🎯 Aim
 Write a code to generate a regression line for multiple input features and compute performance metrics: **MAE, MSE, RMSE, R², Adj R²**.
@@ -214,7 +214,7 @@ plt.show()
 ## Experiment 4
 ### Ridge Regression (L2 Regularization)
 
-**Date:** 9/02/26
+
 
 #### 🎯 Aim
 Generate the regression coefficient using **Ridge Regression** with regularization parameter λ = 1.
@@ -266,7 +266,7 @@ print(f" y_pred[{y_pred[0][0]:.2f}] + {y_pred[1][0]:.2f}*x")
 ## Experiment 5
 ### Ridge Regression (Multiple Features / Matrix Input)
 
-**Date:** 13/3/26
+
 
 #### 🎯 Aim
 Consider a matrix where B₀ = `[[1,2,1],[2,3,2],[3,4,3]]`. Find B₀, B₁, B₂ which represent the regression model `y = __ + x₁__ + x₂__` using **Ridge Regression** with λ = 1.
@@ -323,7 +323,6 @@ print(f" y = {y_pred[0][0]:.2f} + {y_pred[1][0]:.2f}*x₁ + {y_pred[2][0]:.2f}*x
 ## Experiment 5B
 ### Support Vector Machine (SVM) Classification
 
-**Date:** Sheet No. 22
 
 #### 🎯 Aim
 Determine the optimal separating hyperplane using **Support Vector Machine (SVM)** for the given dataset and classify a new data point.
@@ -408,7 +407,6 @@ plt.show()
 ## Experiment SVR
 ### Support Vector Regression (SVR)
 
-**Date:** Sheet No. 24
 
 #### 🎯 Aim
 Apply **Support Vector Regression (SVR)** to determine a regression function such that data points lie within the ε-tube (epsilon margin) while minimizing deviations outside the margin.
@@ -473,7 +471,7 @@ plt.show()
 ## Experiment SVM Dual
 ### Linear SVM in Dual Form
 
-**Date:** Sheet No. 26
+
 
 #### 🎯 Aim
 A linear SVM has the following values of **α (alpha), support vectors, and output class y**. Compute the predicted class label of this SVM when input feature vector is **(0.2, 0.8, 0.7)**.
@@ -542,7 +540,6 @@ print(f" Predicted label  : {int(y_pred)}")
 ## Experiment 6
 ### Naive Bayes Classifier – Weather & Game Prediction
 
-**Date:** Sheet No. 27
 
 #### 🎯 Aim
 Implement **Naive Bayes Classifier** using Python to predict whether a game will be played based on weather conditions.
@@ -600,7 +597,7 @@ print("\n", classification_report(play_game, y_pred, target_names=['No', 'Yes'])
 ## Experiment 6B
 ### Naive Bayes Classifier – Tennis & Temperature Prediction
 
-**Date:** Sheet No. 29
+
 
 #### 🎯 Aim
 Implement a **Naive Bayes classifier** using Scikit-learn to predict whether tennis will be played based on temperature and weather conditions.
@@ -674,7 +671,7 @@ plt.show()
 ## Experiment 7
 ### K-Means Clustering
 
-**Date:** Sheet No. 31
+
 
 #### 🎯 Aim
 Implement **K-Means Clustering** algorithm in Python using Scikit-learn on the given dataset with **K=2 clusters** and initial centroids **A(2,3)** and **C(6,6)**.
@@ -764,7 +761,7 @@ plt.show()
 ## Experiment 7B
 ### K-Medoid (PAM) Clustering
 
-**Date:** 30/03/26 | Sheet No. 35–36
+
 
 #### 🎯 Aim
 Implement the **K-Medoid (PAM)** clustering on a dataset of 5 points with **K=2** and initial medoids **m1 = Point A (2)** and **m2 = Point D (10)**.
@@ -846,7 +843,7 @@ Final Clusters:
 ## Experiment 8
 ### Agglomerative (Hierarchical) Clustering
 
-**Date:** 08/03/26 | Sheet No. 37–38
+
 
 #### 🎯 Aim
 Apply an **agglomerative clustering** approach to create a dendrogram for the following points using **single linkage**.
@@ -924,34 +921,3 @@ Cluster 2: Points ['a', 'b'], Values [array([1,1]), array([2,1])]
 
 The code successfully demonstrated hierarchical agglomerative clustering using single linkage. The dendrogram accurately reflected the merge distances, matching the single linkage calculation.
 
----
-
-## 📦 Requirements
-
-
-```txt
-numpy>=1.21.0
-matplotlib>=3.4.0
-scikit-learn>=0.24.0
-```
-
-Install all dependencies:
-```bash
-pip install numpy matplotlib scikit-learn
-```
-
----
-
-## 👤 Author
-
-| Field | Details |
-|-------|---------|
-| **Name** | Amandeep Kumar |
-| **Univ. Roll** | 24UG010675 |
-| **College Roll** | 24CSEAIML179 |
-| **Semester** | 4th |
-| **University** | JNTU Gunupur |
-
----
-
-*All experiments implemented in Python using NumPy, Matplotlib, and Scikit-learn.*
