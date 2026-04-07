@@ -1,10 +1,3 @@
-# ============================================================
-#  Experiment 4 - Ridge Regression (L2 Regularization)
-#  Name   : Amandeep Kumar
-#  Roll   : 24UG010675
-#  Date   : 09/02/26
-# ============================================================
-#
 #  Aim:
 #  Generate the regression coefficient using Ridge Regression
 #  with regularization parameter lambda = 1.
