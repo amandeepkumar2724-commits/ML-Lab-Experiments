@@ -1,5 +1,3 @@
-
-#
 #  Aim:
 #  Implement K-Means Clustering in Python using Scikit-learn
 #  on the given dataset with K=2 clusters and initial
