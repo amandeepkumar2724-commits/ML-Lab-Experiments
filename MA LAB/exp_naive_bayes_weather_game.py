@@ -1,10 +1,3 @@
-# ============================================================
-#  Experiment 6 - Naive Bayes Classifier (Weather & Game)
-#  Name   : Amandeep Kumar
-#  Roll   : 24UG010675
-#  Date   : Sheet No. 27
-# ============================================================
-#
 #  Aim:
 #  Implement Naive Bayes Classifier to predict whether a game
 #  will be played based on weather conditions.
