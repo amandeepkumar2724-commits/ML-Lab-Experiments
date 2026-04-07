@@ -1,9 +1,4 @@
-# ============================================================
-#  Experiment 7 - K-Means Clustering
-#  Name   : Amandeep Kumar
-#  Roll   : 24UG010675
-#  Date   : Sheet No. 31
-# ============================================================
+
 #
 #  Aim:
 #  Implement K-Means Clustering in Python using Scikit-learn
