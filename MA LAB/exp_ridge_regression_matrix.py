@@ -1,10 +1,3 @@
-# ============================================================
-#  Experiment 5 - Ridge Regression (Multiple Features)
-#  Name   : Amandeep Kumar
-#  Roll   : 24UG010675
-#  Date   : 13/03/26
-# ============================================================
-#
 #  Aim:
 #  Consider matrix B0 = [[1,2,1],[2,3,2],[3,4,3]].
 #  Find B0, B1, B2 representing the regression model:
