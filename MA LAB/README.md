@@ -22,7 +22,7 @@
 
 ---
 
-## Experiment 2
+## Experiment 1
 ### Simple Linear Regression with Performance Metrics
 
 
@@ -129,7 +129,7 @@ plt.show()
 
 ---
 
-## Experiment 3
+## Experiment 2
 ### Multiple Linear Regression (Matrix Factorization)
 
 
@@ -211,7 +211,7 @@ plt.show()
 
 ---
 
-## Experiment 4
+## Experiment 3
 ### Ridge Regression (L2 Regularization)
 
 
@@ -263,7 +263,7 @@ print(f" y_pred[{y_pred[0][0]:.2f}] + {y_pred[1][0]:.2f}*x")
 
 ---
 
-## Experiment 5
+## Experiment 4
 ### Ridge Regression (Multiple Features / Matrix Input)
 
 
@@ -320,7 +320,7 @@ print(f" y = {y_pred[0][0]:.2f} + {y_pred[1][0]:.2f}*x₁ + {y_pred[2][0]:.2f}*x
 
 ---
 
-## Experiment 5B
+## Experiment 5
 ### Support Vector Machine (SVM) Classification
 
 
